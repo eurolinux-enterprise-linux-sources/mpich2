@@ -1,0 +1,19 @@
+<dir>
+<file name="mpiu_util_wrappers.h" info="1243878336"/>
+<file name="mpiu_sock_wrappers.h" info="1249077488"/>
+<file name="mpiu_os_wrappers.h" info="1233851321"/>
+<file name="mpiu_shm_wrappers.h" info="1257000213"/>
+<file name="mpiu_process_wrappers.h" info="1248823313"/>
+</dir>
+<data>
+<fileinfo name="mpiu_util_wrappers.h">
+</fileinfo>
+<fileinfo name="mpiu_sock_wrappers.h">
+</fileinfo>
+<fileinfo name="mpiu_os_wrappers.h">
+</fileinfo>
+<fileinfo name="mpiu_shm_wrappers.h">
+</fileinfo>
+<fileinfo name="mpiu_process_wrappers.h">
+</fileinfo>
+</data>
